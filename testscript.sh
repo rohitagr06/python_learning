@@ -3,4 +3,4 @@ echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "this was run automatically"
-echo "added new line"
+echo "Added new line"
